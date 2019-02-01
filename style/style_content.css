@@ -5666,7 +5666,7 @@ td{
     width: 100%;
     height: 100%; !important;
     position: absolute;
-    z-index: -34;
+    z-index: 34;
     top: 0;
     display: none;
 }
@@ -8684,7 +8684,7 @@ td{
     }
 }
 
-@media (max-width: 1920px){
+@media (max-width: 1900px){
     .row_footer {
         height: 380px;
         top: 0
