@@ -24,10 +24,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sell_item_cart.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sell_item_cart.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sell_item_cart.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
+            <state relative-caret-position="286">
               <caret line="971" column="52" lean-forward="false" selection-start-line="971" selection-start-column="52" selection-end-line="971" selection-end-column="52" />
               <folding>
                 <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -43,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style_content.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style_content.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style/style_content.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="511">
-              <caret line="4883" column="35" lean-forward="false" selection-start-line="4883" selection-start-column="35" selection-end-line="4883" selection-end-column="35" />
+            <state relative-caret-position="324">
+              <caret line="5666" column="29" lean-forward="true" selection-start-line="5666" selection-start-column="29" selection-end-line="5666" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -257,12 +257,12 @@
       <option name="presentableId" value="Default" />
       <updated>1549020395732</updated>
       <workItem from="1549020397454" duration="4184000" />
-      <workItem from="1549031348874" duration="4064000" />
+      <workItem from="1549031348874" duration="4461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8248000" />
+    <option name="totallyTimeSpent" value="8645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -339,9 +339,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/style/style_content.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="5666" column="29" lean-forward="true" selection-start-line="5666" selection-start-column="29" selection-end-line="5666" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sell_item_cart.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
+        <state relative-caret-position="286">
           <caret line="971" column="52" lean-forward="false" selection-start-line="971" selection-start-column="52" selection-end-line="971" selection-end-column="52" />
           <folding>
             <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -353,14 +361,6 @@
             <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#6;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style/style_content.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="4883" column="35" lean-forward="false" selection-start-line="4883" selection-start-column="35" selection-end-line="4883" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
