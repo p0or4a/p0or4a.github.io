@@ -56,7 +56,7 @@ body{
 
 .link_to_main_logo {
     cursor: pointer;
-    background: url('img/fone_logo1920.png');
+    background: url('../img/fone_logo1920.png');
     width: 315px;
     height: 164px;
     display: block;
@@ -92,7 +92,7 @@ body{
     float: left;
     top: 10px;
     left: -2px;
-    background: url("img/telephone.png") center;
+    background: url("../img/telephone.png") center;
     background-size: cover; }
 
 .menu_wrap_info_text {
@@ -116,7 +116,7 @@ body{
     right: 6px;
     width: 30px;
     height: 22px;
-    background: url("img/mail.png") center;
+    background: url("../img/mail.png") center;
     background-size: cover; }
 
 .wrap_mail_to_text {
@@ -149,7 +149,7 @@ body{
 
 .wrap_call_me_img {
     float: right;
-    background: url("img/phone_me.png") center;
+    background: url("../img/phone_me.png") center;
     position: relative;
     top: 11px;
     left: -8px;
@@ -164,7 +164,7 @@ body{
     left: -9px; }
 
 .menu_wrap_search_img {
-    background: url("img/search.png");
+    background: url("../img/search.png");
     width: 29px;
     height: 30px;
     background-size: cover; }
@@ -176,7 +176,7 @@ body{
     left: -10px; }
 
 .menu_wrap_buy_img {
-    background: url("img/buy.png");
+    background: url("../img/buy.png");
     background-size: cover;
     width: 37px;
     height: 30px; }
@@ -287,7 +287,7 @@ body{
     width: 29px;
     height: 28px;
     background-size: cover;
-    background: url("img/mobile_phone.png") center;
+    background: url("../img/mobile_phone.png") center;
     float: left;
     position: relative;
     top: 11px;
@@ -297,7 +297,7 @@ body{
     width: 29px;
     height: 30px;
     background-size: cover;
-    background: url("img/search.png") center;
+    background: url("../img/search.png") center;
     float: left;
     position: relative;
     top: 11px;
@@ -307,7 +307,7 @@ body{
     width: 37px;
     height: 30px;
     background-size: cover;
-    background: url("img/buy.png") center;
+    background: url("../img/buy.png") center;
     float: left;
     position: relative;
     top: 11px;
@@ -421,13 +421,13 @@ a {
     width: 15px;
     height: 9px;
     background-size: cover;
-    background: url("img/arrow.png") center; }
+    background: url("../img/arrow.png") center; }
 
 .arrow_side {
     width: 9px;
     height: 15px;
     background-size: cover;
-    background: url("img/arrow_side.png") center; }
+    background: url("../img/arrow_side.png") center; }
 
 
 .price_img {
@@ -438,7 +438,7 @@ a {
     width: 36px;
     height: 31px;
     background-size: cover;
-    background: url("img/price_img.png") center; }
+    background: url("../img/price_img.png") center; }
 
 .recomend_wrap {
     background-color: #715a85;
@@ -463,7 +463,7 @@ a {
     width: 9px;
     height: 15px;
     background-size: cover;
-    background: url("img/arrow_side.png") center; }
+    background: url("../img/arrow_side.png") center; }
 
 .arrow_right_new {
     top: -4px;
@@ -473,7 +473,7 @@ a {
     width: 9px;
     height: 15px;
     background-size: cover;
-    background: url("img/arrow_side.png") center; }
+    background: url("../img/arrow_side.png") center; }
 
 .lider_text {
     font-size: 17px;
@@ -538,7 +538,7 @@ a {
     width: 26px;
     height: 26px;
     background-size: cover;
-    background: url("img/mm_phone.png") center; }
+    background: url("../img/mm_phone.png") center; }
 
 .mobille_menu_phone_text {
     font-size: 22px;
@@ -564,7 +564,7 @@ a {
     width: 26px;
     height: 19px;
     background-size: cover;
-    background: url("img/mail_mobile.png") center; }
+    background: url("../img/mail_mobile.png") center; }
 
 .mobille_menu_mail_text {
     font-size: 18px;
@@ -590,7 +590,7 @@ a {
     width: 22px;
     height: 28px;
     background-size: cover;
-    background: url("img/location.png") center; }
+    background: url("../img/location.png") center; }
 
 .mobille_menu_location_text {
     font-size: 18px;
@@ -628,7 +628,7 @@ a {
     width: 26px;
     height: 26px;
     background-size: cover;
-    background: url("img/recall.png") center; }
+    background: url("../img/recall.png") center; }
 
 .logo_last_mobile {
     width: 360px;
@@ -639,7 +639,7 @@ a {
     background: linear-gradient(to right, #3c3545, #67527a, #3c3545);
 }
 .logo_last_text{
-    background: url('img/logo_last_mobile.png');
+    background: url('../img/logo_last_mobile.png');
     width: 246px;
     height: 85px;
     margin: 15px auto;
@@ -672,7 +672,7 @@ a {
     display: block;
     width: 315px;
     height: 470px;
-    background: url("img/footer1920.png");
+    background: url("../img/footer1920.png");
 }
 .footer_logo_text{
     font-size: 16px;
@@ -856,7 +856,7 @@ a {
 .footer_call_me_img {
     width: 21px;
     height: 21px;
-    background: url("img/footer_phone.png");
+    background: url("../img/footer_phone.png");
     float: right;
     position: relative;
     top: 8px;
@@ -1001,13 +1001,13 @@ a {
     width: 768px;
 }
 .mobile_sort_img{
-    background: url(img/m_sort.png);
+    background: url(../img/m_sort.png);
     width: 15px;
     height: 9px;
     position: relative;
 }
 .mobile_filter_img{
-    background: url(img/m_filter.png);
+    background: url(../img/m_filter.png);
     width: 15px;
     height: 10px;
     position: relative;
@@ -1530,11 +1530,11 @@ input[type="checkbox"] + span {
     left: 0; top: 0;
     width: 39px;
     height: 40px;
-    background: url(img/not_checked.png) no-repeat;
+    background: url(../img/not_checked.png) no-repeat;
     cursor: pointer;
 }
 input[type="checkbox"]:checked + span {
-    background: url(img/checked.png) no-repeat;
+    background: url(../img/checked.png) no-repeat;
     transition: 0.2s;
 }
 
@@ -1917,7 +1917,7 @@ input[type="checkbox"]:checked + span {
     clear: both;
 }
 .video{
-    background: url("img_360/video.png");
+    background: url("../img_360/video.png");
     width: 330px;
     height: 157px;
     margin: 0 auto;
@@ -1999,7 +1999,7 @@ input[type="checkbox"]:checked + span {
 }
 
 .quest_logo{
-    background: url("img_360/question_logo.png") no-repeat;
+    background: url("../img_360/question_logo.png") no-repeat;
     width: 106px;
     height: 99px;
     top: 21px;
@@ -2091,7 +2091,7 @@ input[type="checkbox"]:checked + span {
     width: 24px;
     height: 31px;
     background-size: cover;
-    background: url("img_360/lider_img.png") center;
+    background: url("../img_360/lider_img.png") center;
 }
 .price_slider {
     position: relative;
@@ -2101,7 +2101,7 @@ input[type="checkbox"]:checked + span {
     width: 36px;
     height: 31px;
     background-size: cover;
-    background: url("img_360/price_img.png") center;
+    background: url("../img_360/price_img.png") center;
 }
 .special_img {
     position: relative;
@@ -2111,7 +2111,7 @@ input[type="checkbox"]:checked + span {
     width: 31px;
     height: 31px;
     background-size: cover;
-    background: url("img_360/special_img.png") center;
+    background: url("../img_360/special_img.png") center;
 }
 
 .rec_img {
@@ -2122,7 +2122,7 @@ input[type="checkbox"]:checked + span {
     width: 29px;
     height: 28px;
     background-size: cover;
-    background: url("img_360/rec_img.png") center;
+    background: url("../img_360/rec_img.png") center;
 }
 
 .lider_text {
@@ -2154,7 +2154,7 @@ input[type="checkbox"]:checked + span {
     width: 15px;
     height: 9px;
     background-size: cover;
-    background: url("img_360/arrow1.png") center;
+    background: url("../img_360/arrow1.png") center;
     position:relative;
     top: 23px;
     left: 300px;
@@ -2190,14 +2190,14 @@ input[type="checkbox"]:checked + span {
 }
 
 .control_prev{
-   background: url(img/arrow_company_prev.png);
+   background: url(../img/arrow_company_prev.png);
     width: 22px;
     height: 39px;
     cursor: pointer;
     top: -270px;
 }
 .control_next{
-   background: url(img/arrow_company_next.png);
+   background: url(../img/arrow_company_next.png);
     width: 23px;
     height: 40px;
     cursor: pointer;
@@ -2358,7 +2358,7 @@ input[type="checkbox"]:checked + span {
 }
 
 .slider_button_img{
-    background: url('img_360/buy.png');
+    background: url('../img_360/buy.png');
     width: 37px;
     height: 30px;
     position: relative;
@@ -2473,7 +2473,7 @@ body.aside-show .aside-wrap{
     width: 24px;
     height: 31px;
     background-size: cover;
-    background: url("img_360/lider_img.png") center;
+    background: url("../img_360/lider_img.png") center;
     margin: 0 auto;
     transform: scale(1.1);
 }
@@ -2481,7 +2481,7 @@ body.aside-show .aside-wrap{
     width: 36px;
     height: 31px;
     background-size: cover;
-    background: url("img_360/price_img.png") center;
+    background: url("../img_360/price_img.png") center;
     margin: 0 auto;
     transform: scale(1.1);
 }
@@ -2489,7 +2489,7 @@ body.aside-show .aside-wrap{
     width: 31px;
     height: 31px;
     background-size: cover;
-    background: url("img_360/special_img.png") center;
+    background: url("../img_360/special_img.png") center;
     margin: 0 auto;
     transform: scale(1.1);
 }
@@ -2498,7 +2498,7 @@ body.aside-show .aside-wrap{
     width: 29px;
     height: 28px;
     background-size: cover;
-    background: url("img_360/rec_img.png") center;
+    background: url("../img_360/rec_img.png") center;
     margin: 0 auto;
     transform: scale(1.1);
 }
@@ -2594,7 +2594,7 @@ body.aside-show .aside-wrap{
     right: -94%;
     cursor: pointer;
     z-index: 1;
-    background: url("img/arrow_company_next.png");
+    background: url("../img/arrow_company_next.png");
     width: 23px;
     height: 40px;
 }
@@ -2603,7 +2603,7 @@ body.aside-show .aside-wrap{
     top: -54%;
     left: 2%;
     cursor: pointer;
-    background: url("img/arrow_company_prev.png");
+    background: url("../img/arrow_company_prev.png");
     width: 22px;
     height: 39px;
 }
@@ -2632,7 +2632,7 @@ body.aside-show .aside-wrap{
 .siderbar_orange_menu{
     height: 631px;
     width: 256px;
-    background: url(img/sidebar_orange.png);
+    background: url(../img/sidebar_orange.png);
     background-position: bottom;
 }
 .text_sidebar_orange{
@@ -2986,7 +2986,7 @@ body.aside-show .aside-wrap{
     top: -125px;
     background-position: right, top;
     background: no-repeat;
-    background-image: url(img/banner.png)
+    background-image: url(../img/banner.png)
 }
 
 #slider4{
@@ -2996,7 +2996,7 @@ body.aside-show .aside-wrap{
     overflow: hidden;
 }
 .smart_button{
-    background: url(img/smart_button.png);
+    background: url(../img/smart_button.png);
     width: 57px;
     border-radius: 28px;
     height: 57px;
@@ -3064,7 +3064,7 @@ body.aside-show .aside-wrap{
 
 .scroll_link{
     display: none;
-    background: url(img/top_link.png);
+    background: url(../img/top_link.png);
     width: 50px;
     height: 50px;
     position: fixed;
@@ -3082,7 +3082,7 @@ body.aside-show .aside-wrap{
     right: 0.2%;
     top: 45%;
     cursor: pointer;
-    background-image: url(img/aside1.png);
+    background-image: url(../img/aside1.png);
     background-position: center;
     background-repeat: no-repeat;
 
@@ -3097,7 +3097,7 @@ body.aside-show .aside-wrap{
     right: 0.2%;
     top: 55%;
     cursor: pointer;
-    background-image: url(img/aside.png);
+    background-image: url(../img/aside.png);
     background-position: center;
     background-repeat: no-repeat;
 }
@@ -3123,7 +3123,7 @@ body.aside-show .aside-wrap{
     color: white;
     cursor: pointer;
     z-index: 1;
-    background: url("img/main_arrow_next.png");
+    background: url("../img/main_arrow_next.png");
     width: 33px;
     height: 51px;
 }
@@ -3134,7 +3134,7 @@ body.aside-show .aside-wrap{
     color: white;
     cursor: pointer;
     z-index: 1;
-    background: url("img/main_arrow_prev.png");
+    background: url("../img/main_arrow_prev.png");
     width: 32px;
     height: 51px;
 }
@@ -3358,7 +3358,7 @@ body.aside-show .aside-wrap{
 .background{
     width: 100%;
     height: 500px;
-    background-image: url(img/bg.png);
+    background-image: url(../img/bg.png);
     background-repeat: no-repeat;
     background-position: center top;
     background-size: cover;
@@ -3516,19 +3516,19 @@ body.aside-show .aside-wrap{
     left: 9px;
 }
 .button1{
-    background: url(img/button1a.png);
+    background: url(../img/button1a.png);
     width: 27px;
     height: 27px;
     cursor: pointer;
 }
 .button2{
-    background: url(img/button2.png);
+    background: url(../img/button2.png);
     width: 30px;
     height: 27px;
     cursor: pointer;
 }
 .button3{
-    background: url(img/button3.png);
+    background: url(../img/button3.png);
     width: 33px;
     height: 27px;
     cursor: pointer;
@@ -3619,7 +3619,7 @@ body.aside-show .aside-wrap{
     top: 50px;
     left: 155px;
     background-size: 22%;
-    background-image: url(img_360/buy.png);
+    background-image: url(../img_360/buy.png);
     background-repeat: no-repeat;
     background-position: 12px 12px;
     color: white;
@@ -3647,7 +3647,7 @@ body.aside-show .aside-wrap{
 }
 
 .arrow_down{
-    background: url(img/arrowdown.png);
+    background: url(../img/arrowdown.png);
     width: 12px;
     height: 7px;
     float: right;
@@ -3866,7 +3866,7 @@ body.aside-show .aside-wrap{
 }
 
 .row_gallery_button_img{
-    background: url(img_360/buy.png);
+    background: url(../img_360/buy.png);
     width: 37px;
     height: 30px;
     transform: scale(0.6);
@@ -4027,7 +4027,7 @@ td{
 .table_button_img{
     float: left;
     position: relative;
-    background: url(img_360/buy.png);
+    background: url(../img_360/buy.png);
     width:37px;
     height: 30px;
     transform: scale(0.6);
@@ -4109,7 +4109,7 @@ td{
 
 .all_generators_show_more_arrow{
     float: left;
-    background: url(img/orange_arrow.png);
+    background: url(../img/orange_arrow.png);
     width: 11px;
     height: 6px;
     position: relative;
@@ -4203,7 +4203,7 @@ td{
 }
 
 .mobile_menu_filter_arrow{
-    background: url(img/orange_arrow.png);
+    background: url(../img/orange_arrow.png);
     width: 11px;
     height: 6px;
     position: relative;
@@ -4533,7 +4533,7 @@ td{
     transition: 0.2s;
 }
 .buy_button_orange_img{
-    background: url(img/buy_button_cart.png);
+    background: url(../img/buy_button_cart.png);
     width: 24px;
     height: 22px;
     position: relative;
@@ -4597,7 +4597,7 @@ td{
     padding-right: 8px;
 }
 .garanty_pic{
-    background: url(img/garanty_orange.png);
+    background: url(../img/garanty_orange.png);
     width: 21px;
     height: 31px;
     float: left;
@@ -4605,7 +4605,7 @@ td{
     top: 6px;
 }
 .delivery_pic{
-    background: url(img/delivery_orange.png);
+    background: url(../img/delivery_orange.png);
     width: 36px;
     height: 21px;
     float: left;
@@ -4641,7 +4641,7 @@ td{
     cursor: pointer;
 }
 .orange_arrow_one, .orange_arrow_two{
-    background: url(img/orange_arrow_down.png);
+    background: url(../img/orange_arrow_down.png);
     width: 15px;
     height: 8px;
     float: right;
@@ -4689,7 +4689,7 @@ td{
     display: none;
 }
 .print_item{
-    background: url(img/print.png);
+    background: url(../img/print.png);
     width: 50px;
     height: 24px;
     float: left;
@@ -4701,7 +4701,7 @@ td{
     color: #5a4576;
 }
 .download_item{
-    background: url(img/download.png);
+    background: url(../img/download.png);
     width: 80px;
     height: 24px;
     float: left;
@@ -4768,7 +4768,7 @@ td{
     transition: 0.2s;
 }
 .overlay_slide_icon{
-    background: url(img/overlay_icon.png);
+    background: url(../img/overlay_icon.png);
     width: 48px;
     height: 49px;
     position: relative;
@@ -4823,7 +4823,7 @@ td{
     float: left;
 }
 .control_item_prev{
-    background: url(img/arrow_item_prev.png);
+    background: url(../img/arrow_item_prev.png);
     width: 13px;
     height: 22px;
     float: left;
@@ -4833,7 +4833,7 @@ td{
     top: 410px;
 }
 .control_item_next{
-    background: url(img/arrow_item_next.png);
+    background: url(../img/arrow_item_next.png);
     width: 13px;
     height: 22px;
     float: right;
@@ -4898,7 +4898,7 @@ td{
     float: left;
 }
 .control_full_prev{
-    background: url(img/prev_full.png);
+    background: url(../img/prev_full.png);
     width: 34px;
     height: 57px;
     cursor: pointer;
@@ -4908,7 +4908,7 @@ td{
 }
 
 .control_full_next{
-    background: url(img/full_next.png);
+    background: url(../img/full_next.png);
     width: 34px;
     height: 57px;
     cursor: pointer;
@@ -5513,7 +5513,7 @@ td{
     background-color: rgba(90, 69, 118, 0.15);
 }
 .overflow_item_link_pic{
-    background: url(img/overflow_item_buy.png);
+    background: url(../img/overflow_item_buy.png);
     width: 23px;
     height: 22px;
     position: relative;
@@ -5664,13 +5664,13 @@ td{
     display: none;
 }
 .overlay_call_me_img{
-    background-image: url(img/Layer1.png);
+    background-image: url(../img/Layer1.png);
     width: 100%;
     height: 770px;
     float: left;
 }
 .overlay_recall_img{
-    background-image: url(img/Layer3.png);
+    background-image: url(../img/Layer3.png);
     width: 100%;
     height: 770px;
     float: left;
@@ -5817,7 +5817,7 @@ td{
     margin: 55px 28px 0 0;
 }
 .overlay_cheap_img{
-    background-image: url(img/Layer2.png);
+    background-image: url(../img/Layer2.png);
     width: 100%;
     height: 770px;
     float: left;
@@ -6520,7 +6520,7 @@ td{
         width: 233px;
         height: 149px;
         float: left;
-        background: url(img/news_img.png);
+        background: url(../img/news_img.png);
     }
     .news_text{
         color: #5a4576;
@@ -7317,7 +7317,7 @@ td{
         height: 185px;
         background-size: cover;
         background-position: center;
-        background: url(img/news_img.png);
+        background: url(../img/news_img.png);
     }
 
     .news_text {
@@ -8694,7 +8694,7 @@ td{
     .logo_footer{
         width: 255px;
         height: 380px;
-        background: url("img/footer_1024.png");
+        background: url("../img/footer_1024.png");
     }
 
     .side_content{
@@ -8839,7 +8839,7 @@ td{
         width: 256px;
         height: 133px;
         text-align: center;
-        background: url('img/fone_logo1920.png');
+        background: url('../img/fone_logo1920.png');
         overflow: hidden;
     }
     .logo_img{
@@ -8960,7 +8960,7 @@ td{
 
 @media (max-width: 1025px) {
     .logo_header_text{
-        background: url('img/logo_text360.png') center;
+        background: url('../img/logo_text360.png') center;
         width: 278px ;
         height: 40px;
         top: 12px;
@@ -8986,7 +8986,7 @@ td{
         width: 360px;
         height: 61px;
         text-align: center;
-        background: url('img/logo_fon360.png');
+        background: url('../img/logo_fon360.png');
     }
 
     .energy_logo_img {
@@ -9458,7 +9458,7 @@ td{
         display: block;
     }
     .catalog_slider_prev_arrow{
-        background: url(img/arrow_company_prev.png);
+        background: url(../img/arrow_company_prev.png);
         width: 22px;
         height: 39px;
         position: absolute;
@@ -9467,7 +9467,7 @@ td{
         z-index: 55;
     }
     .catalog_slider_next_arrow{
-        background: url(img/arrow_company_next.png);
+        background: url(../img/arrow_company_next.png);
         width: 23px;
         height: 40px;
         position: absolute;
@@ -9559,7 +9559,7 @@ td{
         margin: 12px auto;
     }
     .news_block_pic{
-        background-image: url(img/news_img.png);
+        background-image: url(../img/news_img.png);
         width: 330px;
         height: 212px;
         left: 15px;
@@ -9791,7 +9791,7 @@ td{
         width: 250px;
     }
     .mobile_tabs_arrow{
-        background: url(img/arrow.png);
+        background: url(../img/arrow.png);
         width: 15px;
         height: 9px;
         position: relative;
@@ -9918,7 +9918,7 @@ td{
     }
     .variant_wrap_arrow_prev, .variant_wrap_two_arrow_prev {
         display: block;
-        background: url(img/arrow_item_prev.png);
+        background: url(../img/arrow_item_prev.png);
         width: 13px;
         height: 22px;
         position: relative;
@@ -9928,7 +9928,7 @@ td{
     }
     .variant_project_arrow_prev {
         display: block;
-        background: url(img/arrow_item_prev.png);
+        background: url(../img/arrow_item_prev.png);
         width: 13px;
         height: 22px;
         position: relative;
@@ -9939,7 +9939,7 @@ td{
 
     .variant_wrap_arrow_next, .variant_wrap_two_arrow_next{
         display: block;
-        background: url(img/arrow_item_next.png);
+        background: url(../img/arrow_item_next.png);
         width: 13px;
         height: 22px;
         left: 330px;
@@ -9949,7 +9949,7 @@ td{
     }
     .variant_project_arrow_next{
         display: block;
-        background: url(img/arrow_item_next.png);
+        background: url(../img/arrow_item_next.png);
         width: 13px;
         height: 22px;
         left: 330px;
@@ -10151,7 +10151,7 @@ td{
     }
     .variant_with_this_overflow_arrow_next{
         display: block;
-        background: url(img/arrow_item_next.png);
+        background: url(../img/arrow_item_next.png);
         width: 13px;
         height: 22px;
         left: 330px;
@@ -10161,7 +10161,7 @@ td{
     }
     .variant_with_this_overflow_two_arrow_next{
         display: block;
-        background: url(img/arrow_item_next.png);
+        background: url(../img/arrow_item_next.png);
         width: 13px;
         height: 22px;
         left: 330px;
@@ -10171,7 +10171,7 @@ td{
     }
     .variant_with_this_overflow_arrow_prev{
         display: block;
-        background: url(img/arrow_item_prev.png);
+        background: url(../img/arrow_item_prev.png);
         width: 13px;
         height: 22px;
         left: 18px;
@@ -10181,7 +10181,7 @@ td{
     }
     .variant_with_this_overflow_two_arrow_prev{
         display: block;
-        background: url(img/arrow_item_prev.png);
+        background: url(../img/arrow_item_prev.png);
         width: 13px;
         height: 22px;
         left: 18px;
@@ -10269,7 +10269,7 @@ td{
     }
     .reason_arrow_prev{
         display: block;
-        background: url(img/arrow_item_prev.png);
+        background: url(../img/arrow_item_prev.png);
         position: absolute;
         width: 13px;
         height: 22px;
@@ -10279,7 +10279,7 @@ td{
     }
     .reason_arrow_next{
         display: block;
-        background: url(img/arrow_item_next.png);
+        background: url(../img/arrow_item_next.png);
         position: absolute;
         width: 13px;
         height: 22px;
